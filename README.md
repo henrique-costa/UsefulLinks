@@ -41,5 +41,11 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | ---------------------------------------- | ---------------------------------------- |
 | [Docker](https://www.docker.com)         | Platform for containerized applications. |
 
+## 🔐 Cybersecurity Resources
+
+| Link                                     | Description                              |
+| ---------------------------------------- | ---------------------------------------- |
+| [Hacksplaining](https://www.hacksplaining.com/lessons)         |Learn how to secure your web application.|
+
 ---
 
