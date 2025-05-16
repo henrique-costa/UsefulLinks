@@ -12,12 +12,13 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | --------------------------------------------- | -------------------------------------------- |
 | [Python Docs](https://docs.python.org/3/)     | Official Python documentation.               |
 | [MDN Web Docs](https://developer.mozilla.org) | Comprehensive web development documentation. |
+| [Python Tutor](https://pythontutor.com/render.html#mode=edit)|Visualize your code in action  |
+| [Machine Learning](https://www.youtube.com/watch?v=mbyG85GZ0PI&ab_channel=caltech)|Machine Learning classes  |
 
 ## 🌐 Front-End
 
 | Link                                   | Description                                      |
 | -------------------------------------- | ------------------------------------------------ |
-| [TailwindCSS](https://tailwindcss.com) | Utility-first CSS framework.                     |
 | [React](https://reactjs.org)           | JavaScript library for building user interfaces. |
 
 ## 🛠️ Back-End
@@ -38,7 +39,6 @@ Welcome to my personal collection of useful links! This repository serves as a c
 
 | Link                                     | Description                              |
 | ---------------------------------------- | ---------------------------------------- |
-| [VS Code](https://code.visualstudio.com) | Code editor by Microsoft.                |
 | [Docker](https://www.docker.com)         | Platform for containerized applications. |
 
 ---
