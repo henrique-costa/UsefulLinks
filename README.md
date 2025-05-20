@@ -11,7 +11,6 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | Link                                          | Description                                  |
 | --------------------------------------------- | -------------------------------------------- |
 | [Python Docs](https://docs.python.org/3/)     | Official Python documentation.               |
-| [MDN Web Docs](https://developer.mozilla.org) | Comprehensive web development documentation. |
 | [Python Tutor](https://pythontutor.com/render.html#mode=edit)|Visualize your code in action  |
 | [Machine Learning](https://www.youtube.com/watch?v=mbyG85GZ0PI&ab_channel=caltech)|Machine Learning classes  |
 | [GeekForGeek](https://www.geeksforgeeks.org/data-science-with-python-tutorial/)| Multiple Python tutorials and projects |
