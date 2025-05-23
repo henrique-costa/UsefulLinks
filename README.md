@@ -1,6 +1,6 @@
 # Useful Resources Repository
 
-Welcome to my personal collection of useful links! This repository serves as a curated list of valuable resources categorized by subject.
+
 
 
 
