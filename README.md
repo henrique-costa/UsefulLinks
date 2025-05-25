@@ -14,7 +14,7 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | [Python Tutor](https://pythontutor.com/render.html#mode=edit)|Visualize your code in action  |
 | [Machine Learning](https://www.youtube.com/watch?v=mbyG85GZ0PI&ab_channel=caltech)|Machine Learning classes  |
 | [GeekForGeek](https://www.geeksforgeeks.org/data-science-with-python-tutorial/)| Multiple Python tutorials and projects |
-| [CS50](https://cs50.harvard.edu/x/2025/)| CS50, no introduction needed ;) |
+| [CS50](https://cs50.harvard.edu/x/2025/)| CS50, no introduction needed |
 
 ## 🌐 Front-End
 
