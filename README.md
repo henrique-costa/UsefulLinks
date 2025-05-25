@@ -34,7 +34,7 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | Link                                             | Description                    |
 | ------------------------------------------------ | ------------------------------ |
 | [GitHub Docs](https://docs.github.com)           | Official GitHub documentation. |
-| [Postman API Docs](https://learning.postman.com) | API testing and development.   |
+
 
 ## 💻 Development Tools
 
