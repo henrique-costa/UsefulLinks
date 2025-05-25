@@ -20,7 +20,7 @@ Welcome to my personal collection of useful links! This repository serves as a c
 
 | Link                                   | Description                                      |
 | -------------------------------------- | ------------------------------------------------ |
-| [React](https://reactjs.org)           | JavaScript library for building user interfaces. |
+| [React](https://reactjs.org)           | JavaScript library for building user interfaces |
 
 ## 🛠️ Back-End
 
