@@ -21,6 +21,7 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | Link                                   | Description                                      |
 | -------------------------------------- | ------------------------------------------------ |
 | [React](https://reactjs.org)           | JavaScript library for building user interfaces |
+| [Postman API Docs](https://learning.postman.com) | API testing and development.   |
 
 ## 🛠️ Back-End
 
