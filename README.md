@@ -47,7 +47,7 @@ Welcome to my personal collection of useful links! This repository serves as a c
 
 | Link                                     | Description                              |
 | ---------------------------------------- | ---------------------------------------- |
-| [Hacksplaining](https://www.hacksplaining.com/lessons) | Learn how to secure your web application |
+| [Hacksplaining](https://www.hacksplaining.com/lessons) | Learn how to secure your web application. |
 
 ---
 
