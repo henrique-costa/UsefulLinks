@@ -15,6 +15,8 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | [Machine Learning](https://www.youtube.com/watch?v=mbyG85GZ0PI&ab_channel=caltech)|Machine Learning classes  |
 | [GeekForGeek](https://www.geeksforgeeks.org/data-science-with-python-tutorial/)| Multiple Python tutorials and projects |
 | [CS50](https://cs50.harvard.edu/x/2025/)| CS50, no introduction needed |
+| [Real Python](https://realpython.com/)| Real Python Tutorials |
+| [LeetCode](https://leetcode.com/)| The place that makes you mad or better |
 
 ## 🌐 Front-End
 
