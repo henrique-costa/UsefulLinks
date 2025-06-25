@@ -17,6 +17,8 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | [CS50](https://cs50.harvard.edu/x/2025/)| CS50, no introduction needed |
 | [Real Python](https://realpython.com/)| Real Python Tutorials |
 | [LeetCode](https://leetcode.com/)| The place that makes you mad or better |
+| [All certs and courses](https://www.classcentral.com/)| ... |
+
 
 ## 🌐 Front-End
 
