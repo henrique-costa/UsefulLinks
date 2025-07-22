@@ -59,8 +59,7 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code?utm_source=www.turingpost.com&u
 
 | Link                                     | Description                              |
 | ---------------------------------------- | ---------------------------------------- |
-| [ML100](https://github.com/Avik-Jain/100-Days-Of-ML-Code?utm_source=www.turingpost.com&utm_medium=referral&utm_campaign=top-10-github-repositories-to-master-ai-machine-learning-and-data-science
-) | Learn how to ML. |
+| [ML100](https://github.com/Avik-Jain/100-Days-Of-ML-Code?utm_source=www.turingpost.com&utm_medium=referral&utm_campaign=top-10-github-repositories-to-master-ai-machine-learning-and-data-science) | Learn how to ML. |
 
 
 ---
