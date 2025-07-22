@@ -53,5 +53,15 @@ Welcome to my personal collection of useful links! This repository serves as a c
 | ---------------------------------------- | ---------------------------------------- |
 | [Hacksplaining](https://www.hacksplaining.com/lessons) | Learn how to secure your web application. |
 
+https://github.com/Avik-Jain/100-Days-Of-ML-Code?utm_source=www.turingpost.com&utm_medium=referral&utm_campaign=top-10-github-repositories-to-master-ai-machine-learning-and-data-science
+
+## ♦ ML
+
+| Link                                     | Description                              |
+| ---------------------------------------- | ---------------------------------------- |
+| [ML100](https://github.com/Avik-Jain/100-Days-Of-ML-Code?utm_source=www.turingpost.com&utm_medium=referral&utm_campaign=top-10-github-repositories-to-master-ai-machine-learning-and-data-science
+) | Learn how to ML. |
+
+
 ---
 
